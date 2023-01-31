@@ -1,6 +1,6 @@
 flows:
-  0d74919a-5949-43ff-9184-900623d65896: {ver: 2, file: first_commit.snapshot, comments: '',
-    author: anonymous, created: 1675172669297, flowName: first commit, flowDesc: first
-      commit}
+  0d74919a-5949-43ff-9184-900623d65896: {ver: 3, file: first_commit.snapshot, comments: Processor
+      removed, author: anonymous, created: 1675173452720, flowName: first commit,
+    flowDesc: first commit}
 layoutVer: 1
 bucketId: 73d72a74-cbd8-41da-a85c-619d2edc785e
